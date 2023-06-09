@@ -1,6 +1,5 @@
-- 👋 Hi, I’m vijay.k
-- 👀 I’m interested in learn coding
-- 🌱 I’m currently learning in python,html.
+--> My name is vijay.k
+
 
 
 <!---
